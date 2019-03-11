@@ -1,0 +1,11 @@
+ O volume na unidade C ‚ Windows 
+ O N£mero de S‚rie do Volume ‚ 9AC7-C9E0
+
+ Pasta de C:\treinamento_estagio\treinamento
+
+11/03/2019  10:24    <DIR>          .
+11/03/2019  10:24    <DIR>          ..
+11/03/2019  10:24                 0 monitorado.txt
+11/03/2019  09:53                18 README.md
+               2 arquivo(s)             18 bytes
+               2 pasta(s)   901.658.456.064 bytes dispon¡veis
